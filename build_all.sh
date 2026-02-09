@@ -1,4 +1,4 @@
-et -euo pipefail
+set -euo pipefail
 
 # 用法:
 #   bash run_all_splash4.sh            # 默认 8 核
